@@ -17,6 +17,12 @@ Below you will find some of my projects
 
 [Log analysis.pdf](https://github.com/ivancyber4/ivancyber4/files/8457429/Log.analysis.pdf)
 
+[SME Report 5_21.pdf](https://github.com/ivancyber4/ivancyber4/files/8457439/SME.Report.5_21.pdf)
+
+[Final Class Presentation (1).pdf](https://github.com/ivancyber4/ivancyber4/files/8457442/Final.Class.Presentation.1.pdf)
+
+
+
 <!---
 
 ivancyber4/ivancyber4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
